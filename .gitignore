@@ -2,6 +2,14 @@
 *.apk
 *.ap_
 
+*.orig
+*.pyc
+*~
+MANIFEST
+.config
+build/*
+dist/*
+
 # Files for the Dalvik VM
 *.dex
 
